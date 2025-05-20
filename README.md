@@ -1,3 +1,7 @@
+
+#### Full disclosure: this is a forked repository to have a template to use LaTeX with Github Codespace available, but I refer to User zydou for any of the work.
+See his repository [here](https://github.com/zydou/latex-template.git)
+
 # Set up a LaTeX environment for VS Code and GitHub Codespaces
 
 <div align="center">
